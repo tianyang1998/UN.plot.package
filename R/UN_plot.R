@@ -21,6 +21,7 @@ random_normal <- function(n){
 #' uniform number generator
 #'
 #' @param n the number of values
+#'
 #' @description generate some number of values from uniform distribution and their corresponding histogram
 #' @return a dataframe of values and a histogram
 #' @export
@@ -38,4 +39,4 @@ random_unif <- function(n){
   return(result)
 }
 
-
+utils::globalVariables("values")
