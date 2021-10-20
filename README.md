@@ -12,8 +12,7 @@ for those values.
 
 ## Installation
 
-You can install the released version of random.plot.package from
-[CRAN](https://CRAN.R-project.org) with:
+You can install the random.plot.package from GitHub with:
 
 ``` r
 library(devtools)
@@ -38,21 +37,21 @@ and uniform distribution
 
 ``` r
 head(rn$values)
-#>        values
-#> 1  0.07126607
-#> 2  1.77474053
-#> 3  1.69359133
-#> 4 -1.58941078
-#> 5 -1.50899356
-#> 6 -0.28226067
+#>       values
+#> 1  0.3956108
+#> 2 -0.2333113
+#> 3 -0.3316063
+#> 4  0.3470883
+#> 5 -0.6051762
+#> 6  0.7722513
 head(ru$values)
-#>      values
-#> 1 0.2508414
-#> 2 0.6731990
-#> 3 0.9936017
-#> 4 0.1512569
-#> 5 0.4654515
-#> 6 0.4304327
+#>       values
+#> 1 0.06433572
+#> 2 0.77517996
+#> 3 0.57628738
+#> 4 0.81171973
+#> 5 0.58471593
+#> 6 0.16765431
 ```
 
 The histograms corresponding to the result values

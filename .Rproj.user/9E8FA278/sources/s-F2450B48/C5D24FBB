@@ -3,7 +3,7 @@
     "path": "~/Desktop/Researches/presentation/UN.plot.package/README.Rmd",
     "project_path": "README.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1796502243",
     "contents": "",
     "dirty": false,
     "created": 1634701381790.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "30,0",
+        "cursorPosition": "24,51",
         "scrollLine": "16"
     },
     "folds": "",
-    "lastKnownWriteTime": 1634701555,
+    "lastKnownWriteTime": 1634701780,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1634701555849,
+    "last_content_update": 1634701780900,
     "read_only": false,
     "read_only_alternatives": []
 }
