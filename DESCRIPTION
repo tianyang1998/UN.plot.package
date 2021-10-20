@@ -1,0 +1,19 @@
+Package: UN.plot.package
+Title: Uniform distribution and normal distribution histgram generator
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tianyang",
+           family = "Liu",
+           role = c("aut", "cre"),
+           email = "elijah1998@ucla.edu",
+           comment = c(ORCID = "0000-0002-7355-8043"))
+Description: Generate any number of values from either uniform distribution or normal distribution. Plot the histogram for those values.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+    ggplot2,
+    stats
+
